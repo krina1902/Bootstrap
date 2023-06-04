@@ -1,0 +1,22 @@
+.sec1{
+    background-color: #daac00;
+}
+.nav-text ul li a{
+    font-size: 29px;
+color: #ffffff;
+font-weight: 500;
+font-family: "Poppins";
+}
+.se{
+    color: #ffffff;
+    border-radius: 0%;
+}
+.s{
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #dfc56989;
+    border-radius: 0%;
+    margin-right: -20px;
+    border: none;
+    overflow: hidden;
+}
