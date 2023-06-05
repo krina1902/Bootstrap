@@ -20,3 +20,15 @@ font-family: "Poppins";
     border: none;
     overflow: hidden;
 }
+.sec1_1{
+    background-color: #fcc302;
+}
+.sec_1_text h1{
+    font-size: 65px;
+    color: #ffffff;
+}
+.sec_1_text p{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 30px 0;
+}
