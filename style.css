@@ -32,3 +32,59 @@ font-family: "Poppins";
     color: #ffffff;
     padding: 30px 0;
 }
+.sec_2_text{
+    padding: 100px 0;
+    margin: 100px 0;
+}
+.sec_2_text h1{
+    font-size: 65px;
+}
+.sec_2_text p {
+    font-size: 35px;
+    padding: 20px 0;
+}
+.sec3{
+    background-color: #fcc302;
+    padding: 0 0 100px 0;
+}
+.sec_3_text h1{
+    color: #ffffff;
+    font-size: 7 5px;
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+.sec_3_text p{
+    color: #ffffff;
+    font-size: 35px;
+    width: 60%;
+    text-align: center;
+    padding: 20px 0 100px 0;
+    margin: 0 auto;
+}
+.card{
+    border: none
+}
+.card-title{
+    font-size: 45px;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+.card-text{
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+}
+.sec4{
+    padding: 100px 0;
+}
+.sec_4_text h1{
+    font-size: 65px;
+    text-align: end;
+}
+.sec_4_text p{
+    font-size: 35px;
+    text-align: end;
+    padding: 30px 0;
+}
