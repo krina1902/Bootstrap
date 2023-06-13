@@ -117,3 +117,41 @@ font-family: "Poppins";
     background-color: #ffffff;
     padding: 0 0 100px 0;
 }
+.sec_6_text h1{
+    font-size: 75px;
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+.sec_6_text p{
+    font-size: 35px;
+    width: 60%;
+    text-align: center;
+    padding: 20px 0 100px 0;
+    margin: 0 auto;
+}
+.card6 h5{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    padding: 10px 0;
+}
+.card6 p{
+    font-size: 25px;
+    text-align: center;
+}
+.card6 img{
+    display: block;
+    margin: 40px auto;
+}
+.sec7{
+    background-image: url("image psd/sec7\ bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+}
+.sec7 img{
+    padding: 100px 0 50px 0;
+}
+.sec7 h1{
+    padding: 20px 0 50px 0;
+}
